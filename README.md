@@ -23,3 +23,4 @@ Notes:
 * It is assumed that one business only has one location. (A business tag with more than 1 location children tag will not work)
 * Error handling on faulty XML format are not yet implemented 
 * XML contents are not stored to the database
+* When compiling, Google Maps v2 will not work unless you create your own API key that is paired with your computer (as set in AndroidManifest.xml)
