@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">MapsSample</string>
+    <string name="app_name">Maps Exam For 24/7</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="app_title">24/7 Inc.</string>
+    <string name="alert_no_network">Network unavailable. Please check your network connectivity settings.</string>
+    <string name="dialog_loading_xml">Loading data, please wait...</string>
+    <string name="snippet_text">Tap to view details...</string>
 
 </resources>
