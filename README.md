@@ -18,6 +18,7 @@ Program Flow:
 	- When a window is clicked a dialog showing details of location is presented.
 	- clicking on Phone number invokes the phone call function
 - Plot each markers to the map.
+- Center on the first business location found on the list.
 
 Notes:
 * It is assumed that one business only has one location. (A business tag with more than 1 location children tag will not work)
