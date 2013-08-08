@@ -4,7 +4,8 @@ BusinessMaps
 XML Parser With Maps Functionality
 
 *Contents*
-
+- Google services library (BusinessMaps/google-play-services_lib)
+- Project source code (BusinessMaps/MapsSample)
 
 Program Flow:
 - Instantiate map
@@ -21,3 +22,4 @@ Program Flow:
 Notes:
 * It is assumed that one business only has one location. (A business tag with more than 1 location children tag will not work)
 * Error handling on faulty XML format are not yet implemented 
+* XML contents are not stored to the database
